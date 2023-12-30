@@ -1,4 +1,3 @@
-# Computer Architecture_2020CE42-Final-Project
 # 3-Stage Pipelined Processor
 
 ## Overview
